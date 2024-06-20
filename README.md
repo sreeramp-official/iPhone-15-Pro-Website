@@ -33,7 +33,7 @@ Ensure you have the following installed on your machine:
 ### Setup
 1. Clone the Repository:
 ```
-git clone https://github.com/JavaScript-Mastery-Pro/iphone-doc.git
+git clone git@github.com:sreeram3015/iPhone-15-Pro-Website.git
 cd iphone-doc
 ```
 2. Install Dependencies:
